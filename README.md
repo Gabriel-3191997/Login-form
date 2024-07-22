@@ -8,6 +8,8 @@ Technologies:
    b. serve-static
    c. path - module
    d. nodemon
+   e. multer
+   f. body-parser
    
 3. Bootstrap5 CDN
    
